@@ -28,6 +28,4 @@ key: page-about
 
 ## 关于
 
-本网站基于 Github Pages 搭建
-
-主题使用了 [TeXt Theme](https://github.com/kitian616/jekyll-TeXt-theme) 
+本网站使用 [TeXt Theme](https://github.com/kitian616/jekyll-TeXt-theme) 作为
