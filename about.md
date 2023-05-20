@@ -28,5 +28,5 @@ key: page-about
 
 本网站 [GitHub 主页](https://github.com/wyc-m/wyc-m.github.io)
 
-本网站使用 [TeXt Theme](https://github.com/kitian616/jekyll-TeXt-theme) 作为该网站主题  
+本网站使用 [TeXt Theme](https://github.com/kitian616/jekyll-TeXt-theme) 作为主题  
 网站图标来自 [Iconfont](https://www.iconfont.cn/)
