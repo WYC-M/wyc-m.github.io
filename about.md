@@ -30,5 +30,3 @@ key: page-about
 
 本网站使用 [TeXt Theme](https://github.com/kitian616/jekyll-TeXt-theme) 作为主题  
 网站图标来自 [Iconfont](https://www.iconfont.cn/)
-
-<div>{%- include extensions/netease-cloud-music.html id='413812448' -%}</div>
