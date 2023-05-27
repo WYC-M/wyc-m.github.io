@@ -50,3 +50,29 @@ header:
       tr      : &TR       Hakkında
       # @end locale config
     url: /about.html
+
+  - titles:
+      # @start locale config
+      en      : &EN       Github
+      en-GB   : *EN       Github
+      en-US   : *EN       Github
+      en-CA   : *EN       Github
+      en-AU   : *EN       Github
+      zh-Hans : &ZH_HANS  Github
+      zh      : *ZH_HANS  Github
+      zh-CN   : *ZH_HANS  Github
+      zh-SG   : *ZH_HANS  Github
+      zh-Hant : &ZH_HANT  Github
+      zh-TW   : *ZH_HANT  Github
+      zh-HK   : *ZH_HANT  Github
+      ko      : &KO       Github
+      ko-KR   : *KO       Github
+      fr      : &FR       Github
+      fr-BE   : *FR       Github
+      fr-CA   : *FR       Github
+      fr-CH   : *FR       Github
+      fr-FR   : *FR       Github
+      fr-LU   : *FR       Github
+      tr      : &TR       Github
+      # @end locale config
+    url: https://github.com/WYC-M/wyc-m.github.io
