@@ -17,7 +17,7 @@
 ## => Site Settings
 ##############################
 text_skin: forest
-highlight_theme: tomorrow
+highlight_theme: 
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
 title   : WYC-M's Site
@@ -195,7 +195,7 @@ exclude:
   - jekyll-text-theme.gemspec
   - package-lock.json
   - package.json
-#  - /docs
+  - /docs
   - /node_modules
   - /screenshots
   - /test
