@@ -1,0 +1,33 @@
+---
+title: 常用软件下载
+tags: Program
+---
+
+因为有些软件官网被墙了或是不好找，所以在我的网站上传一份
+
+## Python
+版本 v3.11.1  
+位数 x64  
+官网 <https://www.python.org>     
+下载(for Windows) <https://wyc-m.github.io/program/python-3.11.1-amd64.7z>  
+
+## MinGW-W64
+版本 v4.3.5  
+位数 x64  
+官网 <https://www.mingw-w64.org/doku.php>  
+下载(for Windows)  
+<https://wyc-m.github.io/program/mingw64.7z.001>   
+<https://wyc-m.github.io/program/mingw64.7z.002>   
+<https://wyc-m.github.io/program/mingw64.7z.003>    
+
+## Microsoft Visual C++ 2015 Redistributable
+版本 v14.0.23026  
+位数 x64  
+官网 <https://www.microsoft.com/zh-CN/download/details.aspx?id=48145>  
+下载(for Windows) <https://wyc-m.github.io/program/vc_redist.x64.7z>  
+
+## 来自设备制造商的 HEVC 视频扩展
+版本 v2.0.51121.0  
+位数 x64  
+官网 <https://apps.microsoft.com/store/detail/%E6%9D%A5%E8%87%AA%E8%AE%BE%E5%A4%87%E5%88%B6%E9%80%A0%E5%95%86%E7%9A%84-hevc-%E8%A7%86%E9%A2%91%E6%89%A9%E5%B1%95/9N4WGH0Z6VHQ?hl=zh-cn&gl=cn>  
+下载(for Windows) <https://wyc-m.github.io/program/Microsoft.HEVCVideoExtension_2.0.51121.0_x64__8wekyb3d8bbwe.7z>  
