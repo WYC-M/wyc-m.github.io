@@ -75,7 +75,7 @@ header:
       fr-LU   : *FR
       tr      : &TR       Docs
       # @end locale config
-    url: /docs
+    url: /projectdocs
 
   - titles:
       # @start locale config
