@@ -7,7 +7,6 @@ title: 文档
 ### 一 简介
 
 项目主页 <https://github.com/WYC-M/Electronic-Muyu>   
-作者主页 <https://github.com/WYC-M>
 
 本程序力求以最简单的界面，实现较为丰富的功能
 
