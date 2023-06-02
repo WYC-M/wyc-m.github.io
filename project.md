@@ -1,6 +1,5 @@
 ---
-title: 项目发行版下载
-tags: Project
+title: 项目
 ---
 
 ## 电子木鱼 *Electronic-Muyu*
