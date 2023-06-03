@@ -1,10 +1,10 @@
 ---
-title: 文档
+title: 电子木鱼说明文档
+sidebar:
+  nav: docs-zh
 ---
 
-## 电子木鱼说明文档
-
-### 一 简介
+## 一 简介
 
 项目主页 <https://github.com/WYC-M/Electronic-Muyu>   
 
@@ -12,7 +12,7 @@ title: 文档
 
 本软件遵循 MIT 许可
 
-### 二 用法
+## 二 用法
 
 1 敲木鱼：按**空格**键，功德+1  
 
@@ -24,8 +24,7 @@ title: 文档
 
 ![软件截图](https://wyc-m.github.io/pic/muyu-screenshot.png)
 
-
-### 三 作者的悄悄话（奇妙小功能）
+## 三 作者的悄悄话（奇妙小功能）
 
 1 自定义公告文本：在设置界面选择 `3_自定义公告文本` 然后输入您想要替换的内容（64字符以内）
 * 若要恢复默认文本，在设置界面选择 `2_恢复默认公告文本` 即可
@@ -39,7 +38,7 @@ title: 文档
 
 ![设置](https://wyc-m.github.io/pic/muyu-config.png)
 
-### 四 编译
+## 四 编译
 如果您使用 Visual Studio 进行编译，请把项目属性页中的 `高级-高级属性-字符集` 设置为 `未设置`
 
 ![项目属性](https://wyc-m.github.io/pic/muyu-build.png)

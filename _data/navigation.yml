@@ -49,7 +49,7 @@ header:
       fr-LU   : *FR
       tr      : &TR       Project
       # @end locale config
-    url: /program
+    url: docs/program
 
   - titles:
       # @start locale config
@@ -75,7 +75,7 @@ header:
       fr-LU   : *FR
       tr      : &TR       Docs
       # @end locale config
-    url: /projectdocs
+    url: docs/muyudocs
 
   - titles:
       # @start locale config
@@ -101,7 +101,7 @@ header:
       fr-LU   : *FR
       tr      : &TR       Project
       # @end locale config
-    url: /project
+    url: docs/project
 
   - titles:
       # @start locale config
@@ -128,3 +128,9 @@ header:
       tr      : &TR       Hakkında
       # @end locale config
     url: /about.html
+
+docs-zh:
+  - title:      文档
+    children:
+      - title:  电子木鱼
+        url:    /docs/muyudocs
