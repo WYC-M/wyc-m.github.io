@@ -134,3 +134,7 @@ docs-zh:
     children:
       - title:  电子木鱼
         url:    /docs/muyudocs
+  - title:      更新日志
+    children:
+      - title:  电子木鱼
+        url:    /docs/muyulog
