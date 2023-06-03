@@ -17,7 +17,3 @@ article_header:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 125 , .2), rgba(139, 34, 139, .2))'
     src: https://wyc-m.github.io/pic/background.jpg
 ---
-<!--more-->
-Hello World!
-
-欢迎来到 WYC-M 的网站
