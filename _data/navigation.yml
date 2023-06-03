@@ -25,38 +25,6 @@ header:
       # @end locale config
     url: /archive.html
 
-  - titles: 
-      # @start locale config
-      en      : &EN       Program
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-      zh-Hans : &ZH_HANS  软件
-      zh      : *ZH_HANS
-      zh-CN   : *ZH_HANS
-      zh-SG   : *ZH_HANS
-      zh-Hant : &ZH_HANT  Program
-      zh-TW   : *ZH_HANT
-      zh-HK   : *ZH_HANT
-      ko      : &KO       Program
-      ko-KR   : *KO
-      fr      : &FR       Program
-      fr-BE   : *FR
-      fr-CA   : *FR
-      fr-CH   : *FR
-      fr-FR   : *FR
-      fr-LU   : *FR
-      tr      : &TR       Program
-      # @end locale config
-    url: docs/program
-
-  - titles: 文档
-    url: docs/muyudocs
-
-  - titles: 项目
-    url: docs/project
-
   - titles:
       # @start locale config
       en      : &EN       About
@@ -82,13 +50,3 @@ header:
       tr      : &TR       Hakkında
       # @end locale config
     url: /about.html
-
-docs-zh:
-  - title:      文档
-    children:
-      - title:  电子木鱼
-        url:    /docs/muyudocs
-  - title:      更新日志
-    children:
-      - title:  电子木鱼
-        url:    /docs/muyulog
