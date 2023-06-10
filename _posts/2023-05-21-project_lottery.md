@@ -1,5 +1,5 @@
 ---
-title: [开源项目]抽签
+title: 开源项目-抽签
 tags: [开源项目,Python]
 layout: home
 lightbox: true

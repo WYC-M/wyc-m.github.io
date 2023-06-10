@@ -1,5 +1,5 @@
 ---
-title: [开源项目]电子木鱼
+title: 开源项目-电子木鱼
 tags: [开源项目,C++]
 layout: home
 lightbox: true
