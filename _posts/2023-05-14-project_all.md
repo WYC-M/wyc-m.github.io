@@ -22,7 +22,7 @@ article_header:
 <!--more-->
 
 ## 电子木鱼 *Electronic-Muyu*
-当前最新版本 v4.1  
+当前最新版本 v4.2  
 开发语言 C++, Python  
 GitHub 项目链接 <https://github.com/WYC-M/Electronic-Muyu>  
 Gitee 项目链接 <https://gitee.com/WYC-M/Electronic-Muyu>  
