@@ -22,8 +22,8 @@ article_header:
 <!--more-->
 
 ## 电子木鱼 *Electronic-Muyu*
-当前最新版本 v3.0  
-开发语言 C++  
+当前最新版本 v4.1  
+开发语言 C++, Python  
 GitHub 项目链接 <https://github.com/WYC-M/Electronic-Muyu>  
 Gitee 项目链接 <https://gitee.com/WYC-M/Electronic-Muyu>  
 下载最新版本(for Windows) <https://wyc-m.github.io/project/Electronic-Muyu.7z>  
@@ -48,7 +48,7 @@ GitHub 项目链接 <https://github.com/WYC-M/Pythagorean-Theorem-Calculator>
 GitHub 项目链接 <https://github.com/WYC-M/Random-Number-Generator>  
 下载最新版本(for Windows) <https://wyc-m.github.io/project/Random-Number-Generator.7z>  
 
-## 抽签 *Lottery*
+## 抽签 *Auto-Lottery*
 当前最新版本 v1.1  
 开发语言 Python    
 GitHub 项目链接 <https://github.com/WYC-M/Lottery>  
